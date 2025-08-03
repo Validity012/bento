@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ado',
+					link: 'https://www.youtube.com/results?search_query=ado',
 				},
 				{
 					name: 'Classic',
@@ -166,7 +166,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Messenger',
-					link: 'https://www.https://www.messenger.com/t/24718561021083111/.com',
+					link: 'https://messenger.com/',
 				},
 				{
 					name: 'Canva',
