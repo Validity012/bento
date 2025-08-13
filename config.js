@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Docs',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://docs.google.com/document/u/0/',
 		},
 		{
 			id: '4',
