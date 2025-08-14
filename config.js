@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'LMS',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://lms.uptacloban.edu.ph/login/index.php',
 		},
 		{
 			id: '6',
