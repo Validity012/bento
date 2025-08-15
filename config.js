@@ -143,12 +143,12 @@ const CONFIG = {
 					link: 'https://www.youtube.com/results?search_query=ado',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Binaural',
+					link: 'https://www.youtube.com/watch?v=Dq-h8LIe6II',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pomodoro',
+					link: 'https://www.youtube.com/live/uuk0FbpOO7E?si=u5SRkbCEKmxHre9Q',
 				},
 				{
 					name: 'Rock',
